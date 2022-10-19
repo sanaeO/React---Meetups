@@ -1,0 +1,36 @@
+.forum{
+    width : 700px;
+    box-shadow : 2px 1px 7px #00000059;
+    margin : 20px auto;
+    padding : 20px 0px 20px 20px;
+   
+}
+.forum label{
+    display : block;
+    padding : 10px 0;
+    font-weight : bold;
+    font-size : 19px;
+
+}
+.forum input{
+    height : 30px;
+    width : 90%;
+    
+}
+.forum textarea{
+    height : 80px;
+    width : 90%;
+}
+.forum div{
+    text-align : right;
+    padding : 10px;
+}
+.forum div button{
+    background-color :rgb(127 114 2);
+    color : #FFF;
+    padding : 10px 20px;
+    font-size : 18px; 
+    border : none;
+    border-radius : 5px;
+    cursor : pointer;
+}
